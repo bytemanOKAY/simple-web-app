@@ -10,6 +10,6 @@ public class IndexController {
     @RequestMapping("/")
     @ResponseBody
     public String index(){
-        return "Wassup nigga higga!";
+        return "Wassup nigga 1!";
     }
 }
